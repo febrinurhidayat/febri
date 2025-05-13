@@ -1,8 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Halo, saya [Febri](https://febridev.web.id)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=500&lines=Machine+Learning;Fullstack+Development;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=500&lines=Platform+%26+Infrastructure+Engineering;DevOps+Enthusiast;Backend+Developer" alt="Typing SVG" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tentang Saya
