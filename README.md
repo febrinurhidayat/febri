@@ -15,7 +15,7 @@ const febri = {
 };
 ```
 
-Saya adalah seorang **mahasiswa** yang sedang mendalami bidang **Platform & Infrastructure Engineering**, **DevOps**, dan **Backend Development**. Saat ini, saya aktif belajar dan mengeksplorasi berbagai tools serta teknologi seperti CI/CD, containerization, monitoring, dan sistem backend yang scalable.
+Saya adalah seorang **mahasiswa** yang sedang mendalami bidang **Machine Learning**, **Fullstack Development**, dan **Backend Development**. Saat ini, saya aktif belajar dan mengeksplorasi berbagai tools serta teknologi seperti CI/CD, containerization, monitoring, dan sistem backend yang scalable.
 
 Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus berkembang dan membangun proyek-proyek nyata yang bermanfaat.
 
