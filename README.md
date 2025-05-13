@@ -13,6 +13,6 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
 </p>
 
 ### Connect with me :smiley:
-<a href="https://www.instagram.com/_febrinh">
+<a href="https://www.instagram.com/_febrinh" target="_blank">
   <img align="left" alt="febri instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
 </a>
