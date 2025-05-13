@@ -9,7 +9,7 @@
 ```javascript
 const febri = {
   status: "Mahasiswa",
-  focus: ["Platform & Infrastructure", "DevOps", "Backend Development"],
+  focus: ["Machine Learning", "Fullstack Development", "Backend Development"],
   learning: ["CI/CD", "Containerization", "Monitoring", "Scalable Systems"],
   motto: "Belajar dari dasar, bangun untuk masa depan."
 };
@@ -28,22 +28,35 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
     <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://febridev.web.id" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/website.svg" alt="Website" height="30" width="40" />
+    <img align="center" src=https://febridev.web.id/assets/febri.jpg" alt="Website" height="30" width="40" />
   </a>
-  <!-- Tambahkan platform lain jika ada -->
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- Tambahkan skills lain sesuai keahlian -->
+<!-- Laravel -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<!-- React -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=febrinurhidayat&color=blue&style=flat-square&label=Profile+Views" />
 </div>
