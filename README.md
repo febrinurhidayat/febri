@@ -3,7 +3,12 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    Hello, I'm <a href="https://febridev.web.id">Febri</a> working at <a href="https://www.nutanix.com/">@Nutanix </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
+## 👋 Halo, saya <a href="https://febridev.web.id">Febri</a>
+    Saya adalah seorang **mahasiswa** yang sedang mendalami bidang **Platform & Infrastructure Engineering**, **DevOps**, dan **Backend Development**. Saat ini, saya aktif belajar dan mengeksplorasi berbagai tools serta teknologi seperti CI/CD, containerization, monitoring, dan sistem backend yang scalable.
+
+Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus berkembang dan membangun proyek-proyek nyata yang bermanfaat.
+
+> _"Belajar dari dasar, bangun untuk masa depan."_
   </samp>
 </p>
 
