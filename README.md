@@ -1,8 +1,3 @@
-<style>
-  .icon-white {
-    filter: invert(100%);
-  }
-</style>
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Halo, saya [Febri](https://febridev.web.id)
 
 <div align="center">
@@ -53,9 +48,9 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com" target="_blank" rel="noreferrer">
+  <a href="https://github.com/username" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="GitHub" width="40" height="40" class="icon-white"/>
+         width="40" height="40" style="filter: invert(100%)" />
   </a>
 
   <!-- Git -->
