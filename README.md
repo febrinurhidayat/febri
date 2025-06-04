@@ -49,7 +49,7 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
 
   <!-- GitHub -->
   <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="color: white" 
          alt="GitHub" width="40" height="40"/>
   </a>
 
