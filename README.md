@@ -38,7 +38,7 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <!-- React -->
-<img src="https://img.shields.io/badge/React-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white" />
 
 <!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
