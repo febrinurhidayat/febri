@@ -34,26 +34,44 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Skills & Tools
 
 <p align="left">
-<!-- Laravel -->
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-<!-- React -->
-<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white" />
+  <!-- Laravel -->
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" 
+         alt="Laravel" width="40" height="40"/>
+  </a>
 
-<!-- GitHub -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- React -->
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+         alt="React" width="40" height="40"/>
+  </a>
 
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- GitHub -->
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="40" height="40"/>
+  </a>
 
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Git -->
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+         alt="Git" width="40" height="40"/>
+  </a>
 
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+         alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         alt="MySQL" width="40" height="40"/>
+  </a>
 
 </p>
-
 ---
 
 <div align="center">
