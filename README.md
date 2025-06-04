@@ -10,12 +10,11 @@
 const febri = {
   status: "Mahasiswa",
   focus: ["Machine Learning", "Fullstack Development", "Backend Development"],
-  learning: ["CI/CD", "Containerization", "Monitoring", "Scalable Systems"],
   motto: "Belajar dari dasar, bangun untuk masa depan."
 };
 ```
 
-Saya adalah seorang **mahasiswa** yang sedang mendalami bidang **Machine Learning**, **Fullstack Development**, dan **Backend Development**. Saat ini, saya aktif belajar dan mengeksplorasi berbagai tools serta teknologi seperti CI/CD, containerization, monitoring, dan sistem backend yang scalable.
+Saya adalah seorang **mahasiswa** yang sedang mendalami bidang **Machine Learning**, **Fullstack Development**, dan **Backend Development**. Saat ini, saya aktif belajar dan mengeksplorasi berbagai tools serta teknologi seperti Fullstack Development, Machine Learning,DevOps & Cloud Essentials.
 
 Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus berkembang dan membangun proyek-proyek nyata yang bermanfaat.
 
