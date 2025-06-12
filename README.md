@@ -72,6 +72,10 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
 
 </p>
 ---
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Programming Languages
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=febrinurhidayat&color=blue&style=flat-square&label=Profile+Views" />
