@@ -71,7 +71,6 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
   </a>
 
 </p>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=febrinurhidayat&color=blue&style=flat-square&label=Profile+Views" />
